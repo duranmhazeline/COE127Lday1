@@ -1,0 +1,37 @@
+LAB 0 
+ 
+ 
+SOURCE CODE:  
+Cd 
+Cd media / 
+Cd/media/hazeline/vBox_GAs_5.2.12/ 
+ 
+Gedit hello.c 
+Cphello.c/home/hazeline/local repo 
+ 
+Cd/oslab 
+Gedit hello.c  
+ 
+Mkdir LocalRepo 
+Cd LocalRepo/ 
+Mkdir Repo/ 
+ 
+Gedit hello.c 
+ 
+Cp hello.c/home/hazeline/LocalRepo/Lab0 
+ 
+Hello.c 
+#include <stdio.h> 
+ 
+Int main() 
+{ 
+Printf("Hello World"); 
+Return 0; 
+} 
+ 
+Which gcc 
+Where is gcc 
+Rm a.out 
+Ls 
+Gcc hello.c -o hello 
+./hello 
